@@ -1161,7 +1161,7 @@ input.ct-red + span.switch-left, input.ct-red + span + label + span.switch-right
     display: block;
     margin: 0 auto;
     position: relative;
-    width: 306px;
+    width: 800px;
     height: 0;
 }
 .blurred-container .motto .border{
